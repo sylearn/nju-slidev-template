@@ -18,6 +18,14 @@
 
 ---
 
+## 预览
+
+| 封面页 | 章节页 |
+|:---:|:---:|
+| ![封面](docs/screenshots/slide-cover.png) | ![章节](docs/screenshots/slide-section.png) |
+| 正文页 | 结束页 |
+| ![正文](docs/screenshots/slide-default.png) | ![结束](docs/screenshots/slide-end.png) |
+
 ## 特性
 
 - 🎨 **南京大学视觉规范**：基于学校标准色（紫红 `--nju-plum`）与品牌元素

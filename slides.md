@@ -1,6 +1,6 @@
 ---
 theme: default
-title: 二维材料层间滑移性质研究
+title: 你的汇报标题
 info: |
   NJU-inspired light academic Slidev template for theory, DFT, and computational materials talks.
 colorSchema: light
@@ -16,9 +16,9 @@ defaults:
   layout: nju-default
   transition: fade-out
 layout: nju-cover
-speaker: 王苏云
-affiliation: 南京大学物理学院
-mentor: 导师：万建国
+speaker: 汇报人姓名
+affiliation: 南京大学某某学院
+mentor: 导师：导师姓名
 date: 2026.03
 ---
 
